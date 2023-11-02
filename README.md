@@ -1,3 +1,5 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 # Blynk Python Library
 This library provides API to connect IoT hardware that supports Micropython/Python to Blynk Cloud and communiate with Blynk apps (iOS and Android). You can send raw and processed sensor data and remotely control anything that is connected to your hardware (relays, motors, servos) from anywhere in the world.  
 
@@ -201,13 +203,9 @@ Read [this document][esp8266-readme] to get more information.
 
 ## Documentation and other helpful links
 
-[Full Blynk Documentation](http://docs.blynk.cc/#blynk-firmware) - a complete guide on Blynk features
+[Full Blynk Documentation](https://docs.blynk.io) - a complete guide on Blynk features
 
-[Community (Forum)](http://community.blynk.cc) - join a 500,000 Blynk community to ask questions and share ideas
-
-[Help Center](http://help.blynk.cc) - helpful articles on various Blynk aspects
-
-[Code Examples Browser](http://examples.blynk.cc) - browse examples to explore Blynk possibilities
+[Community (Forum)](https://community.blynk.cc) - join a 1'000'000 Blynk community to ask questions and share ideas
 
 [Official Website](https://blynk.io) 
 
@@ -226,7 +224,7 @@ Read [this document][esp8266-readme] to get more information.
 * [Lua, OpenWrt, NodeMCU](https://github.com/vshymanskyy/blynk-library-lua)
 * [OpenWrt packages](https://github.com/vshymanskyy/blynk-library-openwrt)
 * [MBED](https://developer.mbed.org/users/vshymanskyy/code/Blynk/)
-* [Node-RED](https://www.npmjs.com/package/node-red-contrib-blynk-ws)
+* [Node-RED for Blynk IoT](https://flows.nodered.org/node/node-red-contrib-blynk-iot)
 * [LabVIEW](https://github.com/juncaofish/NI-LabVIEWInterfaceforBlynk)
 * [C#](https://github.com/sverrefroy/BlynkLibrary)
 
@@ -252,8 +250,8 @@ This project is released under The MIT License (MIT)
   [blynk-server-public]: http://blynk-cloud.com
   [blynk-docs]: https://docs.blynk.cc/
   [blynk-py-examples]: https://github.com/blynkkk/lib-python/blob/master/examples
-  [blynk-app-android]: https://play.google.com/store/apps/details?id=cc.blynk
-  [blynk-app-ios]: https://itunes.apple.com/us/app/blynk-control-arduino-raspberry/id808760481?ls=1&mt=8
+  [blynk-app-android]: https://play.google.com/store/apps/details?id=cloud.blynk
+  [blynk-app-ios]: https://apps.apple.com/us/app/blynk-iot/id1559317868
   [blynk-vpins]: http://help.blynk.cc/getting-started-library-auth-token-code-examples/blynk-basics/what-is-virtual-pins
   [python-org]: https://www.python.org/downloads/
   [micropython-org]: https://micropython.org/ 
